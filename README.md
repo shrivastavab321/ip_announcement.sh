@@ -1,4 +1,4 @@
-# ip_announcement.sh
+# ip_announcement
 bash script to announce ip address of linux system
 
 ##coppy this project file##
